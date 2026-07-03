@@ -2,7 +2,7 @@
 <h3 align="center">Senior QA Automation Engineer · AI-Augmented Testing · Agentic AI · 4.5+ Years of Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Selenium+%7C+Playwright+%7C+Appium+%7C+Rest+Assured;Engineered+FeatureGen+%26+Codegen+-+Custom+GitHub+Copilot+Agents;Automating+GuideWire+PolicyCenter+for+a+UK+Insurance+Client;Cucumber+BDD+%7C+TestNG+%7C+CI%2FCD+with+Jenkins" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Selenium+%7C+Playwright+%7C+Appium+%7C+Rest+Assured;Engineered+FeatureGen+%26+Codegen+-+Custom+GitHub+Copilot+Agents;Automating+GuideWire+PolicyCenter+for+a+UK+Insurance+Client;Cucumber+BDD+%7C+TestNG+%7C+CI%2FCD+with+Jenkins" alt="Typing SVG" />
 </p>
 
 <p align="center">
